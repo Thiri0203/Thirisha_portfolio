@@ -174,7 +174,7 @@ export default function Contact() {
                     type="submit"
                     className="w-full rounded-full bg-blue-600 hover:bg-blue-700 text-white shadow-lg hover:shadow-blue-500/40 transition-all duration-300"
                   >
-                    Send Message Suceessfully
+                    Send Message
                   </Button>
 
                 </form>
